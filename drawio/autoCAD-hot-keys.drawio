@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-06-13T03:32:43.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.13 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="z8IfWQGoUJkOWmXC6fm8" version="24.4.13" type="device" pages="4">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5" pages="4">
   <diagram id="h9rloI4aKlMIdOmK8b0y" name="Favorites">
-    <mxGraphModel dx="2333" dy="1398" grid="0" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1258" grid="0" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="MtP3eqDM6xanCb5_8MUe-0" />
         <mxCell id="MtP3eqDM6xanCb5_8MUe-1" parent="MtP3eqDM6xanCb5_8MUe-0" />
@@ -84,7 +84,7 @@
         <mxCell id="5zifaB7vFxgYHRfK9UMi-0" value="AutoCAD will autocomplete frequently used and default command aliases before unused ones each session. This means commands that start with the same letter that have been used more than once this session will autocomplete first!" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#000000;labelPosition=center;verticalLabelPosition=middle;spacingLeft=0;spacingBottom=20;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
           <mxGeometry x="475" y="875" width="300" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UnXEWMEneizT5aLam48p-0" value="?" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;sketch=0;fontColor=#CCCCCC;labelPosition=center;verticalLabelPosition=middle;fontSize=60;fontStyle=1;spacingTop=0;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
+        <mxCell id="UnXEWMEneizT5aLam48p-0" value="?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;sketch=0;fontColor=#CCCCCC;labelPosition=center;verticalLabelPosition=middle;fontSize=60;fontStyle=1;spacingTop=10;spacingLeft=0;" parent="MtP3eqDM6xanCb5_8MUe-1" vertex="1">
           <mxGeometry x="750" y="925" width="50" height="75" as="geometry" />
         </mxCell>
       </root>
