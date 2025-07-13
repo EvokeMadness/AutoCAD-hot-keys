@@ -1,7 +1,7 @@
 # AutoCAD Hot Keys
 
-Download the PDF from the 'Releases' section in the right sidebar!
+Download the cheat sheet here: [`Download Link`](https://github.com/EvokeMadness)
 
-## Document Preview
+### Document Preview:
 
-![](resources/thumbnail.png)
+![](assets/preview.png)
