@@ -5,3 +5,7 @@ Download the cheat sheet here: [`Download Link`](https://github.com/EvokeMadness
 ## Document Preview:
 
 ![](assets/preview.png)
+
+* * *
+
+Also check out my AutoCAD hot keys cheat sheet here: [`Repository Link`](https://github.com/EvokeMadness/AutoCAD-XTP)
